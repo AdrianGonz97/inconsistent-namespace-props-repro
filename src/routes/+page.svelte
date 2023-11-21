@@ -16,7 +16,9 @@
 		    👇								-->
 <Button.Root />
 
-
+<!-- Adding a double space seems to trigger the completions correctly 
+			 👇						-->
+<Button.Root  >Works</Button.Root>
 
 
 <!-- === Cases where completions _DO NOT work_ as expected === -->
